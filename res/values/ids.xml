@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="id" name="Challenger">false</item>
+    <item type="id" name="Expert">false</item>
+    <item type="id" name="P2P">false</item>
+    <item type="id" name="imMoreApps">false</item>
+    <item type="id" name="imRateUs">false</item>
+    <item type="id" name="tvMoreApps">false</item>
+    <item type="id" name="tvRateUs">false</item>
+    <item type="id" name="action_settings">false</item>
+</resources>

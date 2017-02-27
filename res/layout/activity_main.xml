@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:background="#222222" android:layout_width="-1" android:layout_height="-1">
+    <LinearLayout android:gravity="11" android:orientation="1" android:layout_width="-1" android:layout_height="-1" android:weightSum="1.0"
+        <LinearLayout android:gravity="11" android:orientation="1" android:layout_width="-1" android:layout_height="-2" android:layout_marginLeft="10dp" android:layout_marginRight="10dp" android:weightSum="1.0" android:layout_weight="0.9">
+            <Button android:textAppearance="?unknown_attr_ref: 1010040" android:id="@id/Challenger" android:background="@drawable/custom_button" android:layout_width="-1" android:layout_height="-2" android:layout_marginTop="5dp" android:layout_marginBottom="5dp" android:scaleType="1" android:text="Challenger" android:layout_weight="0.3" />
+            <Button android:textAppearance="?unknown_attr_ref: 1010040" android:id="@id/Expert" android:background="@drawable/custom_button" android:layout_width="-1" android:layout_height="-2" android:layout_marginTop="5dp" android:layout_marginBottom="5dp" android:scaleType="1" android:text="Expert" android:layout_weight="0.3" />
+            <Button android:textAppearance="?unknown_attr_ref: 1010040" android:id="@id/P2P" android:background="@drawable/custom_button" android:layout_width="-1" android:layout_height="-2" android:layout_marginTop="5dp" android:layout_marginBottom="5dp" android:scaleType="1" android:text="Wi-Fi P2P (coming Soon)" android:layout_weight="0.3" />
+        </LinearLayout>
+        <TableLayout android:layout_width="-1" android:layout_height="-2" android:weightSum="1.0" android:layout_weight="0.05">
+            <TableRow android:gravity="11" android:layout_gravity="11" android:layout_width="-1" android:layout_height="-1" android:layout_weight="0.8">
+                <ImageView android:id="@id/imMoreApps" android:layout_width="-1" android:layout_height="-1" android:layout_marginLeft="10dp" android:layout_marginTop="5dp" android:layout_marginRight="10dp" android:layout_marginBottom="5dp" android:src="@drawable/ic_more_app_1" android:scaleType="7" />
+                <ImageView android:id="@id/imRateUs" android:layout_width="-1" android:layout_height="-1" android:layout_marginLeft="10dp" android:layout_marginTop="5dp" android:layout_marginRight="10dp" android:layout_marginBottom="5dp" android:src="@drawable/ic_rate_us_2" android:scaleType="7" />
+            </TableRow>
+            <TableRow android:gravity="11" android:layout_gravity="11" android:layout_width="-2" android:layout_height="-1" android:layout_weight="0.2">
+                <TextView android:textAppearance="?unknown_attr_ref: 1010041" android:textColor="#eeeeee" android:gravity="11" android:id="@id/tvMoreApps" android:layout_width="-2" android:layout_height="-2" android:layout_marginLeft="10dp" android:layout_marginTop="2dp" android:layout_marginRight="10dp" android:layout_marginBottom="5dp" android:text="More Apps" />
+                <TextView android:textAppearance="?unknown_attr_ref: 1010041" android:textColor="#eeeeee" android:gravity="11" android:id="@id/tvRateUs" android:layout_width="-2" android:layout_height="-2" android:layout_marginLeft="10dp" android:layout_marginTop="2dp" android:layout_marginRight="10dp" android:layout_marginBottom="5dp" android:text="Rate Us" />
+            </TableRow>
+        </TableLayout>
+    </LinearLayout>
+</RelativeLayout>

@@ -1,0 +1,69 @@
+Manifest-Version: 1.0
+Created-By: 1.0 (Android)
+
+Name: res/raw/touch.mp3
+SHA1-Digest: aoiScXFY09u6zg8+kOCs+xJxprs=
+
+Name: res/drawable-xxhdpi-v4/ic_launcher.png
+SHA1-Digest: i5w6ytAjnwgc1VOLco7+7pOZdYI=
+
+Name: res/drawable-hdpi-v4/gridtwo.png
+SHA1-Digest: 1UL0zUVH44ju6NaUSaDSuCemkzw=
+
+Name: res/drawable/custom_button.xml
+SHA1-Digest: 9RGszcVDlfct0267TadMdEoRAyU=
+
+Name: res/drawable-hdpi-v4/blue.png
+SHA1-Digest: MeqriN5KTjU43w5dxQJTyUYwWQ0=
+
+Name: res/drawable-hdpi-v4/challenger.png
+SHA1-Digest: qscI0YM6Yegj5R0GYrLUjJlEIrw=
+
+Name: res/drawable-hdpi-v4/gridone.png
+SHA1-Digest: iGBWPtWQQ9I9O0D53KldhZEab8U=
+
+Name: assets/SF Arch Rival.ttf
+SHA1-Digest: D77y3CCZnMl+5h2EypgD77X0SEE=
+
+Name: resources.arsc
+SHA1-Digest: gAYiyHJblIOVgdF3k4Hxria72L4=
+
+Name: classes.dex
+SHA1-Digest: GiHV9q7L0HUxg72b6iNGNeb7J9s=
+
+Name: res/drawable-hdpi-v4/ic_launcher.png
+SHA1-Digest: hcQfj7RS946qf4qDHBs8z6+X7Iw=
+
+Name: res/drawable-hdpi-v4/more.png
+SHA1-Digest: QffyXtH1rVbLaenVmMicIf4Zq0M=
+
+Name: res/drawable-mdpi-v4/ic_launcher.png
+SHA1-Digest: nbgbv5SDCXxFw5yxmydfj+s/KTI=
+
+Name: res/raw/pop.mp3
+SHA1-Digest: 9lvjtmbGfNI7k1yPyQTHTFF+4Uo=
+
+Name: res/menu/main.xml
+SHA1-Digest: g/HbsV8HqaUHuvXSJdxRWVsXqU8=
+
+Name: res/drawable-hdpi-v4/expert.png
+SHA1-Digest: uJNXZdxt/zTq/FY+KDtLsLkSayc=
+
+Name: AndroidManifest.xml
+SHA1-Digest: lQuEuiBxpBmvGcg1lu7lDII5GNo=
+
+Name: res/drawable-xhdpi-v4/ic_launcher.png
+SHA1-Digest: ouToRn0aacngnp1XM/YDVg2PRTw=
+
+Name: res/drawable-hdpi-v4/green.png
+SHA1-Digest: RrTr/0ywhcIjI3gEnjCQzNRLvuc=
+
+Name: res/layout/activity_main.xml
+SHA1-Digest: Bl6qKHlrh3Ol01XlX4XRGLxB1N0=
+
+Name: res/drawable-xxhdpi-v4/ic_more_app_1.png
+SHA1-Digest: YZ5O6DRMCWwnBIQdUbK0hZyN+kI=
+
+Name: res/drawable-xxhdpi-v4/ic_rate_us_2.png
+SHA1-Digest: iXyyuv48iObKuP2GndCLqzIen2c=
+
